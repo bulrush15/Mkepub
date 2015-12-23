@@ -13,11 +13,10 @@ These MultiMarkdown features have been tested with Mkepub: lists, links, images,
 
 It supports these special tags in the content.opf file: Author, Title, ISBN10, ISBN13, and/or a unique ID, Publisher, Original publication date, EPUB date, Source, multiple Subjects. Right now it needs Info-zip to run. Links are in the 00readme.md file, duplicated in 00readme.htm as HTML. This is freeware, not shareware, not crippleware. 
 
-These additional XHTML tags have also been tested: <big>, <del>, <dl>, <dd>, <dt>,
-<ins>, <small>. 
+These additional XHTML tags have also been tested: &lt;big&gt;, &lt;del&gt;, &lt;dl&gt;, &lt;dd&gt;, &lt;dt&gt;,
+&lt;ins&gt;, &lt;small&gt;. 
 
-Table tags tested: table, caption, th, tr, td. All tags must be closed properly like: <tr><td>stuff</td><td>More stuff</td></tr>
-
+Table tags tested: table, caption, th, tr, td. All tags must be closed properly.
 
 I've already used this to make 5+ ebooks which pass validation.
 
