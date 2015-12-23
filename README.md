@@ -1,5 +1,5 @@
 # Mkepub
-Make EPUB2 ebook files from MultiMarkdown text files. e-book, e-reader, ereader
+Make EPUB2 ebook files from MultiMarkdown text files. e-book, e-reader, ereader. You don't need Perl, but you will need Info-zip.
 
 ## What is Mkepub? 
 
